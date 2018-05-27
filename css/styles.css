@@ -159,11 +159,11 @@ header {
 }
 
 .header-vestergade {
-    background-image: url(/images/vestergade-header.jpg);
+    background-image: url(images/vestergade-header.jpg);
 }
 
 .header-fredensgade {
-    background-image: url(/images/test-fredensgade.jpg);
+    background-image: url(images/test-fredensgade.jpg);
 }
 
 .logo-header {
